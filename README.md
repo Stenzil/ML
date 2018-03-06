@@ -1,2 +1,2 @@
 # ML
-BASIC Q
+BASIC Question to practice machine learning algorithms
