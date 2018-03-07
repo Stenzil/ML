@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn import preprocessing,cross_validation
 #importing datd
 train=pd.read_csv('C:/Users/XOR/Desktop/ML-master/problems/titanic/train.csv')
-test=pd.read_csv('C:/Users/XOR/Desktop/ML-master/problems/titanic/train.csv')
+test=pd.read_csv('C:/Users/XOR/Desktop/ML-master/problems/titanic/test.csv')
 print(train.isnull().sum())
 print(len(train))
 #ax=test["Age"].hist(bins=20)
