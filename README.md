@@ -1,2 +1,3 @@
 # ML
-BASIC Question to practice machine learning algorithms
+TITANIC QUESTION
+TO PREDICT WHETHER A PERSON WILL SINK OR NOT
