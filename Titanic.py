@@ -50,4 +50,3 @@ x2=test4[cols]
 y2=lr.predict(x2)
 y2=y2.reshape(418,1)
 d=pd.DataFrame(data=y2[:,0],columns=["Survived"])
-© 2018 GitHub, Inc.
